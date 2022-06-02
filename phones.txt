@@ -3,4 +3,5 @@
 3) Xiaomi p20
 5) Samsung s22
 6) Xiaomi p40
-7) Oppo n100
+7) Oppo n10
+8) Nokia 80
